@@ -17,16 +17,6 @@ namespace denemeler3
         {
             InitializeComponent();
         }
-
-        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void maskedTextBox1_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
-        {
-            
-        }
         
         private void button1_Click(object sender, EventArgs e)
         {
